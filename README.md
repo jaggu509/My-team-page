@@ -16,7 +16,7 @@
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U">
       Challenge
     </a>
   </h3>
@@ -63,8 +63,8 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-- [Media query](https://www.youtube.com/watch?v=yU7jJ3NbPdA)
+- [Rotating text](https://developer.mozilla.org/en-US/docs/Web/CSS/text-orientation)
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/JayanthGuru)
+- GitHub [Jaggu509](https://github.com/JayanthGuru)
